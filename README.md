@@ -1,27 +1,19 @@
-# cpp-oss-template
+# Lama
 
-<img src="./Medias/Logo.png" width=306 height=344 />
+<img src="./Medias/lama.jpg" width=306 height=344 />
 
-[![License](https://img.shields.io/badge/Licence-MIT-blue.svg)](https://github.com/utilForever/cpp-oss-template/blob/master/LICENSE) [![Build Status](https://travis-ci.org/utilForever/cpp-oss-template.svg?branch=master)](https://travis-ci.org/utilForever/cpp-oss-template/branches) [![Build status](https://ci.appveyor.com/api/projects/status/github/utilForever/cpp-oss-template?branch=master&svg=true)](https://ci.appveyor.com/project/utilForever/cpp-oss-template/branch/master)
+[![License](https://img.shields.io/badge/Licence-MIT-blue.svg)](https://github.com/utilForever/cpp-oss-template/blob/master/LICENSE) [![Build Status](https://travis-ci.org/jwkim98/lama.svg?branch=master)](https://travis-ci.org/utilForever/cpp-oss-template/branches) [![Build status](https://ci.appveyor.com/api/projects/status/github/jwkim98/lama?branch=master&svg=true)](https://ci.appveyor.com/project/utilForever/cpp-oss-template/branch/master)
 
 [![codecov](https://codecov.io/gh/utilForever/cpp-oss-template/branch/master/graph/badge.svg)](https://codecov.io/gh/utilForever/cpp-oss-template)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7430fcc2933b44209cc97a87050c6a8e)](https://www.codacy.com/manual/utilForever/cpp-oss-template?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=utilForever/cpp-oss-template&amp;utm_campaign=Badge_Grade)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/utilForever/cpp-oss-template.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/utilForever/cpp-oss-template/alerts/)
-[![Language grade: C/C++](https://img.shields.io/lgtm/grade/cpp/g/utilForever/cpp-oss-template.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/utilForever/cpp-oss-template/context:cpp)
 
-cpp-oss-template is a simple template for C++ language based project.
+Lama is library supporting parallel programming in C++
 
-## Support CI
+## Features
 
-- Appveyor
-- Travis CI
-- Azure Pipelines
-
-## Support Tool
-
-- Codecov
-- Codacy
-- LGTM
+- Atomic shared_ptr and weak_ptr
+- Concurrent containers
+- Parallel pipelines
+- Parallel for based on OpenMP
 
 ## How To Contribute
 
@@ -29,11 +21,7 @@ Contributions are always welcome, either reporting issues/bugs or forking the re
 
 ## Contact
 
-You can contact me via e-mail (utilForever at gmail.com). I am always happy to answer questions or help with any issues you might have, and please be sure to share any additional work or your creations with me, I love seeing what other people are making.
-
-## References
-
-- https://github.com/codecov/cpp-11-standard
+Written by Justin Kim(jwkimrhkgk@gmail.com  or jwkim98@kaist.ac.kr)
 
 ## License
 
@@ -41,7 +29,7 @@ You can contact me via e-mail (utilForever at gmail.com). I am always happy to a
 
 The class is licensed under the [MIT License](http://opensource.org/licenses/MIT):
 
-Copyright &copy; 2019 [Chris Ohk](http://www.github.com/utilForever).
+Copyright & 2020 Justin Kim
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
