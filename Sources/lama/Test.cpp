@@ -1,4 +1,4 @@
-#include <cpp-oss-template/Test.hpp>
+#include <lama/Test.hpp>
 
 int Add(int a, int b)
 {
