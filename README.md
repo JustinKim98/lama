@@ -4,7 +4,7 @@
 
 [![License](https://img.shields.io/badge/Licence-MIT-blue.svg)](https://github.com/utilForever/cpp-oss-template/blob/master/LICENSE) [![Build Status](https://travis-ci.org/jwkim98/lama.svg?branch=master)](https://travis-ci.org/utilForever/cpp-oss-template/branches) [![Build status](https://ci.appveyor.com/api/projects/status/github/jwkim98/lama?branch=master&svg=true)](https://ci.appveyor.com/project/utilForever/cpp-oss-template/branch/master)
 
-[![codecov](https://codecov.io/gh/utilForever/cpp-oss-template/branch/master/graph/badge.svg)](https://codecov.io/gh/utilForever/cpp-oss-template)
+[![codecov](https://codecov.io/gh/jwkim98/lama/branch/master/graph/badge.svg)](https://codecov.io/gh/jwkim98/lama)
 
 Lama is library supporting parallel programming in C++
 
